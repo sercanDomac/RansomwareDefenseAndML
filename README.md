@@ -40,14 +40,21 @@ Konfigürasyon dosyalarını düzenleyin (config.yaml, vb.).
 İlgili Python scriptlerini çalıştırarak modülleri test edin.
 
 Kullanım
+
 Anomali Tespiti: anomaly_detection.py dosyasını kullanarak ağ trafiğinde anomali tespiti yapın.
+
 IP Bloklama: dynamic_ip_blocking.py dosyası ile kötü niyetli IP'leri engelleyin.
+
 Yedekleme ve Şifreleme: backup_and_encryption.py dosyası ile otomatik yedekleme ve şifreleme işlemlerini gerçekleştirin.
+
 Immutable Yedekleme: AWS S3 üzerinde Object Lock yapılandırmasını tamamlayın.
+
 Otomatik Uyarı ve Müdahale: alert_and_response.py dosyası ile saldırı tespitinde otomatik uyarılar ve müdahaleler yapın.
 Kaynaklar
+
 CICIDS Collection Dataset
 Kaggle Cybersecurity Datasets
+
 Katkıda Bulunanlar
 [Sercan DOMAÇ] - Proje Yöneticisi ve Geliştirici
 Lisans
