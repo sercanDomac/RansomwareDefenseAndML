@@ -1,4 +1,4 @@
-projesi, sistem güvenliğini artırmak ve ransomware gibi siber tehditlere karşı etkili bir savunma sağlamak için geliştirilmiş bir çerçevedir. Bu proje, makine öğrenimi tabanlı anomali tespiti, dinamik IP bloklama, otomatik yedekleme ve şifreleme, immutable (değiştirilemez) yedekleme ve saldırı tespitinde otomatik uyarı ve müdahale gibi temel güvenlik stratejilerini içerir.
+RansomwareDefenseAndML projesi, sistem güvenliğini artırmak ve ransomware gibi siber tehditlere karşı etkili bir savunma sağlamak için geliştirilmiş bir çerçevedir. Bu proje, makine öğrenimi tabanlı anomali tespiti, dinamik IP bloklama, otomatik yedekleme ve şifreleme, immutable (değiştirilemez) yedekleme ve saldırı tespitinde otomatik uyarı ve müdahale gibi temel güvenlik stratejilerini içerir.
 
 Proje İçeriği
 1. Makine Öğrenimi Tabanlı Anomali Tespiti 🧠
